@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>View Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>CURRENT_NODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>the current node in tree</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>CURRENT_NODE_KEY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>the key of the current node</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_CMDS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>command coordinator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_CONT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>holds the container for the tree</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_CONTROL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>holds the tree control</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>main portal to the data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_DD_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>?</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_ROOT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>the root node for the tree</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_SCREENS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>screen coordinator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>M_TREE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>the tree model</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>ON_DRAG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Handle DRAG event</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>ON_DROP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>handle DROP event of tree</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MYDD_VIEW</CLSNAME>
+     <CMPNAME>ON_DROP_COMPLETE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>handle DROP_COMPLETE event of tree</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
